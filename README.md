@@ -4,11 +4,8 @@
 ###
 
 <div align="center">
-  <!-- كارت الإحصائيات العام (تم إصلاح الرابط المكسور) -->
   <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Saadaoui&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="160" alt="stats graph" />
-  
-  <!-- المخطط الدائري/المتعامد للنسب والنشاط الذي تبحث عنه -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahmoud-Saadaoui&layout=donut&theme=dracula" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahmoud-Saadaoui&layout=compact&theme=dracula" height="160" alt="languages graph" />
 </div>
 
 ###
