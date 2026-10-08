@@ -23,7 +23,7 @@ const mahmoud = {
   role:      "Full-Stack Engineer",
   location:  "🇹🇳 Tunisia",
   focus:     ["Scalable web platforms", "Clean architecture", "Production-ready code"],
-  loves:     ["DevOps", "AI", "System Design"]
+  loves:     ["DevOps", "AI", "System Design"],
   motto:     "We don't quit until we crack the solution 🚀",
 };
 ```
