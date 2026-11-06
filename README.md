@@ -78,9 +78,7 @@ ORDER  BY consistency DESC;
 ```
 
 <div align="center">
-
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=Mahmoud-Saadaoui&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="Mahmoud's GitHub Stats"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud-Saadaoui&theme=tokyonight&hide_border=true" alt="Mahmoud's Streak"/>
 </div>
 
 <!-- ====================== CONTRIBUTIONS ====================== -->
